@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a web developer and I am proficient at:<br>Backend : Python, Java, SQL<br>Frontend: JavaScript, CSS, HTML5<br>Framework: Django
+I'm full-stack web developer. All projects are built from ground up, from real-life problems with code.  
 
 
 # 💻 Tech Stack:
