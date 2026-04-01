@@ -10,6 +10,6 @@ I am a web developer and I am proficient at:<br>Backend : Python, Java, SQL<br>F
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zawad-ifty&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=zawad-ifty&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
