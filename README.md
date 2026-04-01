@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Zawad and I am a web developer and I am proficient at:<br>Backend : Python, Java, SQL<br>Frontend: JavaScript, CSS, HTML5<br>Framework: Django
+I am a web developer and I am proficient at:<br>Backend : Python, Java, SQL<br>Frontend: JavaScript, CSS, HTML5<br>Framework: Django
 
 
 # 💻 Tech Stack:
